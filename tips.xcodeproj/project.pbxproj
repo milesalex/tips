@@ -156,6 +156,7 @@
 		DA870A801C039FF100EC03F5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = Dropbox;
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				DA870AA91C039FF200EC03F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DA870AAA1C039FF200EC03F5 /* Build configuration list for PBXNativeTarget "tipsTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				DA870AAC1C039FF200EC03F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
